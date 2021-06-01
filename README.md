@@ -1,3 +1,9 @@
 # SportsMeetInfo
-Eclipse + windowbuilder
-Navicat Premium 15 + MySQL 5.6.48
+用 Eclipse 安装 windowbuilder 插件编写的可视化运动会信息管理系统。
+
+- 分角色登录，不同的角色有不同的权限。
+- 实现了运动项目信息，报名信息，学生信息，学院代表队信息的集中管理。
+- 实现了对运动项目的报名功能。
+
+
+运行环境： JDK1.8，MySQL 5.6
